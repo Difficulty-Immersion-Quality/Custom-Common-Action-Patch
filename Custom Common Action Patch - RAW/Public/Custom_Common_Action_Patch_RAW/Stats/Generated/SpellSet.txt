@@ -13,6 +13,8 @@ add spell "Goon_Swap_Places"
 add spell "GR_Shout_Ready"
 add spell "Shout_Hurry"
 add spell "Target_Grapple"
+add spell "Target_MightyFoot"
+add spell "Target_Help_Container"
 // RAW:
 add spell "RAW_Target_Shove_Player"
 add spell "RAW_Shout_Dodge"
